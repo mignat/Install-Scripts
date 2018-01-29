@@ -24,7 +24,7 @@ fi
 
 echo "** Installing prerequisites **"
 
-sudo apt-get -y install  lib32z1 libc6-i386 libwebkitgtk-1.0-0:i386 libproxy1v5:i386 libproxy1-plugin-gsettings:i386 libproxy1-plugin-webkit:i386 libdconf1:i386 dconf-gsettings-backend:i386 > /dev/null
+sudo apt-get -y install  lib32z1 libc6-i386 libwebkitgtk-1.0-0:i386 libproxy1v5:i386 libproxy1-plugin-gsettings:i386 libproxy1-plugin-webkit:i386 libdconf1:i386 dconf-gsettings-backend:i386
 
 echo "** Verify and Cleanup **"
 
